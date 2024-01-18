@@ -1,0 +1,149 @@
+.Navigation{
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.navbar{
+    padding-top: 1% !important;
+    padding-bottom: 1% !important;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.navbar-brand{
+    font-size: 2rem !important;
+    color: rgb(126 34 206) !important;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.nav-link{
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+    font-size: 1.25rem !important;
+}
+
+.one:hover {
+    color: rgb(126 34 206) !important;
+}
+
+.two:hover{
+    color:#f0ad4e !important;
+}
+
+.introComp{
+    display: flex;
+    gap: 10%;
+    flex-basis: 20%;
+    flex-wrap: wrap;
+    position: relative;
+    top: 100px;
+}
+
+.introText{
+    padding-left: 7%;
+    padding-top: 10%;
+}
+
+.softwarePic{
+    height: 40%;
+    width: 40%;
+}
+
+/* #676a81 */
+
+#project{
+    position: relative;
+    margin-top: 10%;
+    margin-bottom:5%;
+    background-color:#f9fbfd;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.ProjectCont{
+    color:rgb(126 34 206) ;
+}
+
+#skill{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.headSkill{
+    padding-bottom: 2%;
+}
+
+.container{
+    padding-top: 6%;
+}
+
+.skillName{
+    margin-bottom: 10px;
+}
+
+.progressStat{
+    margin-bottom: 30px;
+}
+
+.progress{
+    border-radius: 1rem !important;
+    height: 1rem !important;
+    width: 75%;
+    display: inline;
+}
+
+.progress-bar{
+    background-color:rgb(126 34 206) !important;
+}
+.Contactdiv{
+    position: relative;
+    margin-top: 10%;
+    margin-bottom:5%;
+    background-color:#f9fbfd;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+#contact{
+    padding-bottom: 2%;
+}
+
+.firstRow{
+    width: 20%;
+    margin-bottom: 2%;
+}
+
+.Contactus{
+    padding-top: 5%;
+}
+
+.AboutMe{
+    padding-top: 5%;
+}
+
+.NameTag{
+    margin-left: 21.5%;
+}
+
+.subjectTag{
+    margin-left: 22%;
+    margin-bottom: 2%;
+}
+
+.MessageTag{
+    margin-left: 22%;
+    margin-bottom: 2%;
+}
+
+.ButtonSubmit{
+    margin-left: 20%;
+}
+
+.Footerdiv{
+    text-align: center;
+}
+
